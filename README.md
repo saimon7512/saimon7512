@@ -29,5 +29,7 @@ Check out some of my recent work across different industries:
 ---
 
 ### 📫 Connect With Me
-* **Location:** Satkhira, Bangladesh
-* **GitHub:** [github.com/saimon7512](https://github.com/saimon7512)
+* 📧 **Email:** info.saimon7512@gmail.com
+* 💼 **LinkedIn:** [linkedin.com/in/wordpress-developer-hr](https://www.linkedin.com/in/wordpress-developer-hr/)
+* 🐙 **GitHub:** [github.com/saimon7512](https://github.com/saimon7512)
+* 📍 **Location:** Satkhira, Khulna, Bangladesh
