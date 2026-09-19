@@ -1,6 +1,6 @@
 # Md Hafizur Rahman
 
-### WordPress & WooCommerce Developer · Elementor, SEO Specialist 
+### WordPress & WooCommerce Developer · Elementor Pro Specialist · Technical SEO
 
 Freelance developer with 8+ years of experience designing, redesigning, and optimizing high-performance WordPress and WooCommerce websites for international clients. I deliver responsive, maintainable Elementor Pro builds that are engineered for speed, search visibility, and conversion.
 
@@ -49,7 +49,7 @@ Freelance developer with 8+ years of experience designing, redesigning, and opti
 
 - 📧 [info.saimon7512@gmail.com](mailto:info.saimon7512@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/wordpress-developer-hr/)
-- 🌐 [ExplorePulses](https://explorepulses.com/)
+- 🐙 **GitHub:** [github.com/saimon7512](https://github.com/saimon7512)
 - 📍 Satkhira, Khulna, Bangladesh
 
 <!--
