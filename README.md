@@ -1,34 +1,34 @@
 # Md Hafizur Rahman
 
-### WordPress & Elementor Pro Developer · Technical SEO Specialist
+### WordPress & WooCommerce Developer · Elementor, SEO Specialist 
 
-Freelance developer with 7+ years of experience building fast, responsive, search-optimized WordPress websites for local and international clients. I turn designs into clean, maintainable Elementor builds and make sure the sites rank and convert.
+Freelance developer with 8+ years of experience designing, redesigning, and optimizing high-performance WordPress and WooCommerce websites for international clients. I deliver responsive, maintainable Elementor Pro builds that are engineered for speed, search visibility, and conversion.
 
-**Open to freelance projects.** [Email me](mailto:info.saimon7512@gmail.com) · [LinkedIn](https://www.linkedin.com/in/wordpress-developer-hr/)
+**Available for freelance projects.** [Email me](mailto:info.saimon7512@gmail.com) · [LinkedIn](https://www.linkedin.com/in/wordpress-developer-hr/)
 
 ---
 
 ## Services
 
-| Service | What you get |
+| Service | Scope |
 |---|---|
-| **Custom WordPress & Elementor Pro builds** | Page builds, theme setup, container/flexbox layouts, reusable global styles |
-| **Responsive front-end development** | Mobile/tablet fixes, overflow issues, breakpoint tuning, cross-browser QA |
-| **Performance & code cleanup** | Local widget overrides refactored into global theme styles for easier maintenance |
-| **Technical & on-page SEO** | SEO-ready structure, content production, and site optimization |
-| **Custom fixes** | Navigation dropdown z-index issues, custom CSS, plugin configuration |
+| **Website Design & Redesign** | Custom, responsive Elementor Pro builds using container/flexbox layouts and reusable global styles |
+| **WooCommerce Development** | Store setup, customization, and optimization |
+| **Theme & Plugin Development** | Theme customization, plugin integration and configuration, custom functionality in PHP and JavaScript |
+| **Responsive Front-End Engineering** | Mobile and tablet refinement, overflow resolution, breakpoint tuning, cross-browser testing |
+| **Performance & Code Optimization** | Consolidation of local widget overrides into global theme styles for scalable, maintainable code |
+| **Technical & On-Page SEO** | SEO-ready site architecture, content optimization, and performance improvements |
 
 ## Tech Stack
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor_Pro-92003B?style=flat&logo=elementor&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-<!-- Add only tools you actually use: Rank Math / Yoast, Google Search Console, Git, WooCommerce, ACF, etc. -->
 
 ## Selected Work
 
@@ -39,11 +39,11 @@ Freelance developer with 7+ years of experience building fast, responsive, searc
 | **Healthcare** | [Human Care NY](https://www.humancareny.com/) · [HCS Home Care](https://hcshomecare.com/) |
 | **Local Services** | [Texas Premier Plumbing](https://texaspremierplumbing.com/) |
 
-## Working With Me
+## Approach
 
-- **Communication:** clear updates and fast replies
-- **Delivery:** clean, documented code that your team can maintain
-- **Time zone:** based in Bangladesh (GMT+6), flexible overlap with EU and US hours
+- **Communication:** clear, timely updates throughout every project
+- **Quality:** clean, well-structured code that your team can maintain and extend
+- **Availability:** based in Bangladesh (GMT+6), with working-hour overlap for European and US clients
 
 ## Contact
 
@@ -51,3 +51,11 @@ Freelance developer with 7+ years of experience building fast, responsive, searc
 - 💼 [LinkedIn](https://www.linkedin.com/in/wordpress-developer-hr/)
 - 🌐 [ExplorePulses](https://explorepulses.com/)
 - 📍 Satkhira, Khulna, Bangladesh
+
+<!--
+GitHub sidebar bio (paste into Edit profile):
+WordPress & WooCommerce Developer | Elementor Pro | Technical SEO | Available for freelance
+
+Profile repo description (repo Settings):
+Profile README: WordPress, WooCommerce & Elementor Pro developer
+-->
